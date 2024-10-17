@@ -2,5 +2,5 @@
 
 Codespace
 
-#Laboratório para aprendizado das ferramentas do GitHub
+#Laboratório para aprendizado da ferramenta Codespace do GitHub
 
